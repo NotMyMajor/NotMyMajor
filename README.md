@@ -6,6 +6,7 @@
 * EEG
 * BCI Technology
 * Neuroscience
+* Psychology
 * Machine Learning
 * AI
 
