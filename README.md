@@ -1,5 +1,8 @@
 ### Hi there! My name is Rhys Switzer, and I often go by NotMyMajor.
 
+![EEG](OpenBCI-WebXR-EEG.gif)
+Format: ![Alt Text](url)
+
 ## My Interests:
 * MATLAB
 * Python
