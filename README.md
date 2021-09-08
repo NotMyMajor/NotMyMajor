@@ -10,6 +10,7 @@
 * MATLAB
 * Python
 * Blender
+* Arduino
 * EEG
 * BCI Technology
 * Neuroscience
