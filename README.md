@@ -1,11 +1,11 @@
-### Hi there! My name is Rhys Switzer, and I often go by NotMyMajor.
+
 
 
 <p align="center">
   <img src="BlenderEEGBrain.gif" />
 </p>
 
-
+### Hi there! My name is Rhys Switzer, and I often go by NotMyMajor.
 ## My Interests:
 * MATLAB
 * Python
