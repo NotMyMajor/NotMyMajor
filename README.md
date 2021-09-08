@@ -3,6 +3,7 @@
 ## My Interests:
 * MATLAB
 * Python
+* Blender
 * EEG
 * BCI Technology
 * Neuroscience
