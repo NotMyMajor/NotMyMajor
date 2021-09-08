@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="OpenBCI-WebXR-EEG.gif" />
+  <img src="BlenderEEGBrain.gif" />
 </p>
 
 
@@ -29,3 +29,7 @@ rhys.switzer@alumni.ou.edu
 NotMyMajor/NotMyMajor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<p align="center">
+  <img src="OpenBCI-WebXR-EEG.gif" />
+</p>
