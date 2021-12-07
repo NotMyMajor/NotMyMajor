@@ -6,6 +6,10 @@
 </p>
 
 ### Hi there! My name is Rhys Switzer, and I often go by NotMyMajor.
+
+## Links
+https://www.linkedin.com/in/rhys-switzer-6811851a6
+
 ## My Interests:
 * MATLAB
 * Python
