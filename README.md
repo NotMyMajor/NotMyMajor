@@ -9,9 +9,9 @@
 I am a full-time neuroscience research assistant at Baylor University. I mostly use MATLAB at work, but I occasionally use Python for fun!
 
 ## Links
-https://www.linkedin.com/in/rhys-switzer-6811851a6
+Linkedin: https://www.linkedin.com/in/rhys-switzer-6811851a6
 
-https://www.instagram.com/rhys_switzer/
+Instagram: https://www.instagram.com/rhys_switzer/
 
 ## My Interests:
 * MATLAB
