@@ -6,6 +6,7 @@
 </p>
 
 ### Hi there! My name is Rhys Switzer, and I often go by NotMyMajor.
+I am a full-time neuroscience research assistant at Baylor University. I mostly use MATLAB at work, but I occasionally use Python for fun!
 
 ## Links
 https://www.linkedin.com/in/rhys-switzer-6811851a6
