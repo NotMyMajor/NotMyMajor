@@ -10,6 +10,7 @@ I am a full-time neuroscience research assistant at Baylor University. I mostly 
 
 ## Links
 https://www.linkedin.com/in/rhys-switzer-6811851a6
+
 https://www.instagram.com/rhys_switzer/
 
 ## My Interests:
