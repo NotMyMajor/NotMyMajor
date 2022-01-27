@@ -22,6 +22,8 @@ Instagram: https://www.instagram.com/rhys_switzer/
 * BCI Technology
 * Neuroscience
 * Psychology
+* Raspberry Pi
+* HomeAssistant
 * Machine Learning
 * AI
 
