@@ -13,6 +13,8 @@ LinkedIn: https://www.linkedin.com/in/rhys-switzer-6811851a6
 
 Instagram: https://www.instagram.com/rhys_switzer/
 
+MATLAB Community: https://www.mathworks.com/matlabcentral/profile/authors/21009000?s_tid=gn_comm
+
 ## My Interests:
 * MATLAB
 * Python
