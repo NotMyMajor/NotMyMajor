@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="BlenderEEGBrainCompressedTransparent.gif" />
+  <img src="BlenderEEGBRainGif.gif" />
 </p>
 
 ### Hi there! My name is Rhys Switzer, and I often go by NotMyMajor.
@@ -23,7 +23,7 @@ Instagram: https://www.instagram.com/rhys_switzer/
 * Neuroscience
 * Psychology
 * Raspberry Pi
-* HomeAssistant
+* Home Assistant
 * Machine Learning
 * AI
 
