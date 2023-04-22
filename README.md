@@ -30,11 +30,10 @@ I am a full-time neuroscience research assistant at Baylor University. I mostly 
 * AI
 
 ## Looking For
-Nothing at the moment! (Happily employed.)
+A graduate program! Currently looking at and applying to masters and PhD programs in neuroscience with an interest in neuroengineering and neuroprosthetics.
 
 ## Contact Info
 rhys.switzer@alumni.ou.edu
-
 
 
 <!---
