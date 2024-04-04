@@ -6,7 +6,7 @@
 </p>
 
 ### Hi there! My name is Rhys Switzer, and I often go by NotMyMajor.
-I am a full-time neuroscience research assistant at Baylor University. I mostly use MATLAB at work, but I occasionally use Python for fun!
+I am a full-time student in the Applied Cognition and Neuroscience masters program at the University of Texas at Dallas. I mostly use MATLAB, but I occasionally use Python for fun!
 
 ## Links
 [![LinkedIn](View-my-LinkedIn-profile-image-3-300x140.png-900x419.png)](https://www.linkedin.com/in/rhys-switzer-6811851a6)
@@ -30,7 +30,7 @@ I am a full-time neuroscience research assistant at Baylor University. I mostly 
 * AI
 
 ## Looking For
-A graduate program! Currently looking at and applying to masters and PhD programs in neuroscience with an interest in neuroengineering and neuroprosthetics.
+PhD programs in neuroscience with an interest in neuroengineering, neuroprosthetics, or neurorehabilitation.
 
 ## Contact Info
 rhys.switzer@alumni.ou.edu
